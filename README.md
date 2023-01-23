@@ -1,4 +1,4 @@
-# machine-predictive-maintainance
+# machine-predictive-maintenance
 
 ## Baumgartner, Plakolb, Pelzeder
 
